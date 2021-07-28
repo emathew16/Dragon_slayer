@@ -6,5 +6,6 @@ red
 black
 unicorn
 green
+indigo
 yellow 
 These are the colour of the rainbow ans the unicorn
